@@ -23,18 +23,31 @@ The main objective is to extract valuable insights such as customer ratio in mov
 **Structure of the table in MYSQL
 
 CREATE TABLE IF NOT EXISTS netflix(
+
 show_id VARCHAR(6) PRIMARY KEY,
+
 show_type VARCHAR(10),
+
 title	VARCHAR(150),
+
 director VARCHAR(200),
+
 cast VARCHAR(255),
+
 country	VARCHAR(200),
+
 date_added	VARCHAR(100),
+
 release_year INT,
+
 rating VARCHAR(100),
+
 duration VARCHAR(50),
+
 listed_in	VARCHAR(255),
+
 show_description VARCHAR(200)
+
 );
 
 

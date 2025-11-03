@@ -1,6 +1,6 @@
 # Netflix Movies and Tv shows analysis using SQL
 
-![Netflix logo](netflix_logo.png)
+![Netflix logo]                     (netflix_logo.png)
 
 ##Overview
 

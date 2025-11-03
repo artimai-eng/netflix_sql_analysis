@@ -1,6 +1,6 @@
 # Netflix Movies and Tv shows analysis using SQL
 
-![Netflix logo](https://github.com/artimai-eng/netflix_sql_analysis/commit/bafb907519ac299f6dd72713593c156a94714be6)
+![Netflix logo](netflix_logo.png)
 
 ##Overview
 
